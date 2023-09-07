@@ -531,3 +531,291 @@ Next you will see all the files load into the PHP folder
 Next go to the link and click the link to download VC RedistX86.exe 
 </p>
 <br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/8e3b05ef-9a8c-4ff7-8165-53ff8e917e57"/>
+</p>
+<p>
+Next click the blue download button 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/90c88d6f-1008-4d89-a93a-de0ecb686ddd"/>
+</p>
+<p>
+Next click download anyways 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/5da2381e-027b-41ee-9df3-cbd21331a21d"/>
+</p>
+<p>
+Now go to file explorer and double click VC_redist 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/2b2a82b7-ea2b-49b5-80b7-dc333e7e2bc0"/>
+</p>
+<p>
+Click Install 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/be911f23-5a1f-459b-bf54-5a251a45a236"/>
+</p>
+<p>
+Now once the process is done click close 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/6c65f001-fadc-41b0-92a3-0108d67d773d"/>
+</p>
+<p>
+Next click the link an download MySQL 5.5.62 .............
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/810f8036-d161-45c2-a915-7c174c2a4c55"/>
+</p>
+<p>
+Now click the blue download button 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/8005384d-9e93-45e7-9a04-1fde2c38bfe7"/>
+</p>
+<p>
+Next click download anyways 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/c76ee24a-f88b-444d-ba1b-d3783dc2d6d8"/>
+</p>
+<p>
+Now go to file explorer and double click mysql to open the program 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/20c47cb8-c2f9-48eb-95d2-d7884a07d734"/>
+</p>
+<p>
+Next click next 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/008e08c5-a0b1-48a1-a669-d23511da9b39"/>
+</p>
+<p>
+Next click next 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/ed8dad36-e031-417d-9b9f-3d2640d59f12"/>
+</p>
+<p>
+Now click Typical 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/937d59b3-4945-40f8-8757-2c6edc041c51"/>
+</p>
+<p>
+Next click install 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/1f4fc9ed-d2f2-4445-b61d-b1ee1f4d6a3f"/>
+</p>
+<p>
+Now click finish 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/cb13b58c-6c6f-46a1-bbf6-09986ded6e1f"/>
+</p>
+<p>
+Now click next 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/1926c0fc-b984-438d-b863-8d3d993ac0ea"/>
+</p>
+<p>
+Now click Standard Configuration then click next 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/a5aaf679-e76d-4e4d-bf58-d9cef62cbce8"/>
+</p>
+<p>
+Now click Install as Windows Service then click next 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/8308594d-9b64-400e-8de3-e794ed296f70"/>
+</p>
+<p>
+Now type the password. For this example I'm going to type Password1 then click next 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/43cc6062-a91c-45b0-8a92-6a6a54352a95"/>
+</p>
+<p>
+Next click execute to finish the process
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/e3da9c2f-3f14-4be1-9257-7655551e44fa"/>
+</p>
+<p>
+You will then see the process finish 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/cadedd65-6d83-4410-a35d-80498ddc9a08"/>
+</p>
+<p>
+Now type IIS or Internet Information Services then right click then click run as administrator 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/5f0a0fe5-14b6-4fcb-be1a-de682dce0d72"/>
+</p>
+<p>
+Now click PHP Manager 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/4a0bfe9a-840e-48fa-ac4e-428cb082281f"/>
+</p>
+<p>
+Next click Register new PHP version 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/ebbc52d3-3b98-4d04-923d-bb8db0565ef2"/>
+</p>
+<p>
+Now you will see this tab, click the three dots on the right side  
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/37ab34e9-80f1-489a-9b61-f52032aed5b0"/>
+</p>
+<p>
+Now go to Windows (C) then click the PHP folder we created earlier 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/2145448d-3c40-41be-b8e0-d148f17f4ab4"/>
+</p>
+<p>
+Now click the PHP foler then click php-cgi 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/2088c3cf-6797-45f8-a674-e6378ce5abd5"/>
+</p>
+<p>
+Now you will see the path before you on the white bar then click ok 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/20c27225-d41e-4637-8edd-27bc194c39e1"/>
+</p>
+<p>
+Now you will see that the caution sign disappeared from PHP Setup
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/6640a965-fdfe-4a0f-b1e1-3d247d23993d"/>
+</p>
+<p>
+Go back to Microsoft Azure and click VM-osticket then click restart. Then click yes to restart the VM
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/3a46f250-37fd-4d70-847a-22b7f7b16f17"/>
+</p>
+<p>
+Now you will see that the VM is loading 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/9f6cfa42-96f9-482f-b6a5-73f2741c7976"/>
+</p>
+<p>
+Now go to the link and download osTicket ...................
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/628b7a9f-2c18-4acd-a0d0-e4e556907578"/>
+</p>
+<p>
+Next open file explorer and you will see osTicket was installed as a zip file 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/0fda9fa0-2436-496a-9c11-69cb9dacb6ee"/>
+</p>
+<p>
+Next go to Windows (C)
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/45b9b90a-84c1-45aa-b7e6-2ea1c0aa785f"/>
+</p>
+<p>
+Next click inetpub folder 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/bbf29450-52f0-41ff-ad80-53c9c17caf42"/>
+</p>
+<p>
+Now click the wwwroot folder
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/df9cc101-2472-40d4-be92-54ee43ef90c7/>
+</p>
+<p>
+Now you will be in the wwwroot folder and see the following 
+</p>
+<br />
