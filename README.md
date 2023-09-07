@@ -813,9 +813,258 @@ Now click the wwwroot folder
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/df9cc101-2472-40d4-be92-54ee43ef90c7/>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/df9cc101-2472-40d4-be92-54ee43ef90c7"/>
 </p>
 <p>
 Now you will be in the wwwroot folder and see the following 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/2393e12c-ada5-4532-8ed5-af6f456cad69"/>
+</p>
+<p>
+Next go back to the osTicket folder and click the upload folder 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/8ab5c340-0c96-4c88-bc5b-8e407b26c4c4"/>
+</p>
+<p>
+Now drag the upload file to the wwwroot folder
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/e498f010-8092-4e5b-9fe1-a223e392605f"/>
+</p>
+<p>
+Once the files are done copying over rename the file osTicket in wwwroot folder
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/1bdebc35-ffc8-421e-a1a5-f82d0750f6a2"/>
+</p>
+<p>
+Next type IIS or Internet Information Services then right click and open as administrator
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/8f159bee-0b7b-4625-9a7f-f8987bdbea71"/>
+</p>
+<p>
+Now click the VM-osticket and then click restart on the right side 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/ac9a6e67-47a2-4e1c-b8d2-0774756155fc"/>
+</p>
+<p>
+Next click the sites folder 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/b53533a6-5499-495b-9d12-2888c9fe441c"/>
+</p>
+<p>
+Next click the osTicket folder 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/0b312203-94be-4dfc-b1f6-b8003c65afb8"/>
+</p>
+<p>
+Now click Browse *80 (http) 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/075cdf14-74d8-48db-932f-ebcfb99cdce3"/>
+</p>
+<p>
+You will see the page load with alot of green check and red checks 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/9e4cd293-049d-4e3e-bfc1-b3384f31798a"/>
+</p>
+<p>
+Next go to PHP Manager 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/09fd821f-6935-4610-a48b-86d3e49b3528"/>
+</p>
+<p>
+Next click enable or disable an extension 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/bbb4ad96-ae43-4098-97b8-0460b4258dea"/>
+</p>
+<p>
+Now find php_imap.dll we can see its disbale then click, then go to the top right then click enable 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/d272733a-a8f5-42e6-a104-a8acf1d87e06"/>
+</p>
+<p>
+Now find php_intl.dll then click, then go to the top right then click enable 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/76650fea-0640-49b0-a41a-e40fbf2d3456"/>
+</p>
+<p>
+Now find php_opcache.dll then click, then go to the top right then click enable
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/f56f70f5-6900-4801-aa07-578c9e2a9855"/>
+</p>
+<p>
+Now go back to the osTicket home page 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/07f2bf28-3b75-4b93-9d9c-b93c420cb762"/>
+</p>
+<p>
+Next click continue 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/a2a60e2c-1ff6-4bcf-96ae-cc58edbae2ea"/>
+</p>
+<p>
+Now go back to the osTicket folder from wwwroot
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/3ea95a96-51ad-4e58-b83a-b0efefa789bd"/>
+</p>
+<p>
+Next click the include folder 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/42c79898-b086-4a31-9fb0-1fec407d6a2c"/>
+</p>
+<p>
+Now click ost-sampleconfig.php
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/7fc88de0-5eca-4a5d-9256-4c6bc2407a9b"/>
+</p>
+<p>
+Now rename the file to ost-config.php
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/811492d9-ef0b-47d5-b51f-e11fc80f25ab"/>
+</p>
+<p>
+Next right click the file then go to properties 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/fa970fff-95f5-4221-b56c-94db11a0d440"/>
+</p>
+<p>
+Now click the security tab 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/a46381c5-d906-481f-bec0-f9cb3783d8ed"/>
+</p>
+<p>
+Next click the advanced button
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/55a113f1-bffb-4338-9bc9-5621c7368e77"/>
+</p>
+<p>
+Now click disable inheritance 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/cffb17c6-f381-4187-af58-93ae40460bf0"/>
+</p>
+<p>
+Next click remove all inherited permission from this object 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/8ad6d188-2cbd-44fb-8509-fe4ba7176163"/>
+</p>
+<p>
+Next click add 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/176efbeb-5fdc-4a70-9a44-1c9c59d0ac4e"/>
+</p>
+<p>
+Next click select a principal
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/85fc3f75-b2ad-46d6-83a4-63d26dc9e2ce"/>
+</p>
+<p>
+Now type everyone 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/a857d05b-234a-475c-9f9b-55cfc4368e3c"/>
+</p>
+<p>
+Now click ok 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/4c34624d-f5e2-48df-8b73-e9fb157fafe2"/>
+</p>
+<p>
+Now click all the permissions then click ok 
+</p>
+<br />
+
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/1c591885-b33f-484d-aafe-f2ac5f5768ce"/>
+</p>
+<p>
+Now click apply 
 </p>
 <br />
