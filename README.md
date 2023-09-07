@@ -523,3 +523,11 @@ Now click the extract button
 Next you will see all the files load into the PHP folder
 </p>
 <br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/cab30e2a-cecc-443a-9625-ec4e55c8c93f"/>
+</p>
+<p>
+Next go to the link and click the link to download VC RedistX86.exe 
+</p>
+<br />
