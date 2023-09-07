@@ -1060,11 +1060,97 @@ Now click all the permissions then click ok
 </p>
 <br />
 
-
 <p>
 <img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/1c591885-b33f-484d-aafe-f2ac5f5768ce"/>
 </p>
 <p>
 Now click apply 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/7be67c43-7a1e-4804-985d-a2c216d5c44b"/>
+</p>
+<p>
+Next click ok 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/3c17f685-1f6e-4e1b-9b23-8d4eab55626b"/>
+</p>
+<p>
+Now click ok 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/3998f1b6-1ca6-43c2-bc39-bc7b02703444"/>
+</p>
+<p>
+Next go back to the OsTicket home page and click continue
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/0563e86f-5b37-4e20-97e5-28762d41a552"/>
+</p>
+<p>
+For the helpdesk name type josh help desk, the deafult email type josh@help.com. Now for admin user the first name type josh then the last name type garcia. For email address type josh@gmail.com. For the username josh then type the password I will type Password1. 
+</p>
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/048efa78-b2d2-42ab-b09c-26f61f48a17c"/>
+</p>
+<p>
+Now go to back to the link and download HeidiSQL ..............
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/d36be658-9410-4bbb-beef-04c8c158aa31"/>
+</p>
+<p>
+Next click the link for HediSQL ...............
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/28b301f0-e839-4cbd-8aea-f1d5bcdceb40"/>
+</p>
+<p>
+Now go to file explorer and double click HediSQL
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/c8d7d7ea-f9e5-483a-84ba-42fc48c34c14"/>
+</p>
+<p>
+Next click I accept the agreement then click next 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/4c09d5e1-a1ec-4ecd-b351-cff2644c9352"/>
+</p>
+<p>
+Next click install
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/052ad3b3-ab82-4479-88bf-859a28d2f721"/>
+</p>
+<p>
+You will see the process start 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/e52fd989-0735-449d-ac63-32d03400e29d"/>
+</p>
+<p>
+Next click finish 
 </p>
 <br />
