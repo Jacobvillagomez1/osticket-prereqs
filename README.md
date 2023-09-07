@@ -1154,3 +1154,155 @@ You will see the process start
 Next click finish 
 </p>
 <br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/93171893-f444-4e2c-a3ef-6ec6fa81f7ac"/>
+</p>
+<p>
+Next click skip 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/02baf490-ba6b-4042-a825-0088e7c583ff"/>
+</p>
+<p>
+Now type root
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/1c84cfb4-97d7-4014-a1ec-3dffb2c1c4c7"/>
+</p>
+<p>
+Next for the password section type Password1 then click open
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/a4b4daff-d66e-4e86-b894-212d91c6f0f8"/>
+</p>
+<p>
+Now you will see the unamed tab 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/ece476ab-ebc7-4c51-8fdb-6e20f89202e0"/>
+</p>
+<p>
+Next type root for the MySQL Username then for the MySQL Password type Password1
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/5f2e5a35-ed90-497b-a8ff-d500552d2923"/>
+</p>
+<p>
+Now right click Unamed then go to create new then click Database
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/27cf046b-9eb5-453b-8701-2b9be2d8b24e"/>
+</p>
+<p>
+Next type osTicket then click ok 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/b8f9d0ff-d1d1-458b-8ba0-5fc79b270f6f"/>
+</p>
+<p>
+Next type osTicket for MySQL Database
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/735b889b-91fb-4865-bc1e-d641db847f10"/>
+</p>
+<p>
+Now you will see the process load 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/c0f2ae4e-4f2a-4ac4-bbdb-de5a3f21ba22"/>
+</p>
+<p>
+Next you will see the process finish and osTicket was installed
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/76cd532d-f6ff-4f51-bae1-ff8e87505bf3"/>
+</p>
+<p>
+Next go to the osTicket folder and delete the setup folder
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/5ed0cb3e-3f8b-4fcf-84c4-be1930ca41ed"/>
+</p>
+<p>
+Now click ost-config.php
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/be19e868-c931-4ca5-b3f7-fa3d257cf0c6"/>
+</p>
+<p>
+Right click and go to properties 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/6db9f04f-224a-4c5f-9cd4-92a9c6638a20"/>
+</p>
+<p>
+Next click advanced 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/92146206-b6cc-416b-af36-8120cef97380"/>
+</p>
+<p>
+Now click permissions
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/06516cbe-e712-4a18-b380-d183d9363823"/>
+</p>
+<p>
+Next click allow everyone then click edit 
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/405cc032-a569-40d3-a20b-a56bf757217a"/>
+</p>
+<p>
+Now uncheck full control, modify, and write then click ok  
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/c28422dc-faf8-40aa-9408-334738c1d909"/>
+</p>
+<p>
+Now click apply
+</p>
+<br />
+
+<p>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/20df729d-6052-413c-ba38-c9048da1ca23"/>
+</p>
+<p>
+Finally click ok then click the link to continue the Post-Installation Configuration https://github.com/Jacobvillagomez1/post-install-config
+</p>
+<br />
