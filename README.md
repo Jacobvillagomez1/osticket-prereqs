@@ -322,26 +322,10 @@ Now in order to see if the process worked type 127.0.0.1 in the search bar and y
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/d9d66946-ecfc-41dd-903c-ae3fd8c27811"/>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/7ede1ce6-e69f-4421-99f3-e81ddeb05f91"/>
 </p>
 <p>
-Next open the link and download PHP Manager for IIS ...................
-</p>
-<br />
-
-<p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/4ee1cfa4-ea63-4e84-91a7-040377595f02"/>
-</p>
-<p>
-Then click download 
-</p>
-<br />
-
-<p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/1214e292-d905-4194-a1cb-81e54df479c3"/>
-</p>
-<p>
-Then click download anyway
+Next open the link and download PHP Manager for IIS click the download symbol on the side
 </p>
 <br />
 
@@ -378,26 +362,10 @@ Finally click close
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/eb2c85c8-e5ea-4604-b93a-1cdd30129c98"/>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/dd9df8e2-659b-4457-a1d1-00d6bc838fd0"/>
 </p>
 <p>
-Next go back to the link and download Rewrite Module ...............
-</p>
-<br />
-
-<p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/c8fd9932-8434-4100-b317-77a6653eca1a"/>
-</p>
-<p>
-Next click the blue download button 
-</p>
-<br />
-
-<p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/31a97940-c2ee-4d9f-91f6-bef0ee9125ce"/>
-</p>
-<p>
-Now click download anyway 
+Next go back to the link and download Rewrite Module click the download symbol 
 </p>
 <br />
 
@@ -434,18 +402,10 @@ Next click finish
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/645bcdd5-b691-4107-8447-e65d9804c894"/>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/437b01b3-cb18-4a5d-b77d-9a1b169d8dab"/>
 </p>
 <p>
-Next go back to the link and download PHP 7.3.8 .................
-</p>
-<br />
-
-<p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/d0f3c248-df2e-47c1-b0ec-12246cb19d29"/>
-</p>
-<p>
-Now click the download button on the top right 
+Next go back to the link and download PHP 7.3.8 click the download symbol 
 </p>
 <br />
 
@@ -530,26 +490,10 @@ Next you will see all the files load into the PHP folder
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/cab30e2a-cecc-443a-9625-ec4e55c8c93f"/>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/9668435c-d238-4608-8022-7020a6e8bf38"/>
 </p>
 <p>
-Next go to the link and click the link to download VC RedistX86.exe 
-</p>
-<br />
-
-<p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/8e3b05ef-9a8c-4ff7-8165-53ff8e917e57"/>
-</p>
-<p>
-Next click the blue download button 
-</p>
-<br />
-
-<p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/90c88d6f-1008-4d89-a93a-de0ecb686ddd"/>
-</p>
-<p>
-Next click download anyways 
+Next go to the link and click the link to download VC RedistX86.exe click the download symbol
 </p>
 <br />
 
@@ -578,26 +522,10 @@ Now once the process is done click close
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/6c65f001-fadc-41b0-92a3-0108d67d773d"/>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/e619f6d7-0ded-4bc0-a953-ff2bdf7e0c27"/>
 </p>
 <p>
-Next click the link an download MySQL 5.5.62 .............
-</p>
-<br />
-
-<p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/810f8036-d161-45c2-a915-7c174c2a4c55"/>
-</p>
-<p>
-Now click the blue download button 
-</p>
-<br />
-
-<p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/8005384d-9e93-45e7-9a04-1fde2c38bfe7"/>
-</p>
-<p>
-Next click download anyways 
+Next click the link an download MySQL 5.5.62 then click the download symbol 
 </p>
 <br />
 
@@ -778,10 +706,10 @@ Now you will see that the VM is loading
 <br />
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/9f6cfa42-96f9-482f-b6a5-73f2741c7976"/>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/c78817ef-dd63-4454-b60f-39eac21ff56e"/>
 </p>
 <p>
-Now go to the link and download osTicket ...................
+Now go to the link and download osTicket then click the download symbol
 </p>
 <br />
 
@@ -1105,18 +1033,10 @@ For the helpdesk name type josh help desk, the deafult email type josh@help.com.
 </p>
 
 <p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/048efa78-b2d2-42ab-b09c-26f61f48a17c"/>
+<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/f76320fc-4ab9-41f5-b3c4-a057330a89a1"/>
 </p>
 <p>
-Now go to back to the link and download HeidiSQL ..............
-</p>
-<br />
-
-<p>
-<img src="https://github.com/Jacobvillagomez1/osticket-prereqs/assets/143027686/d36be658-9410-4bbb-beef-04c8c158aa31"/>
-</p>
-<p>
-Next click the link for HediSQL ...............
+Now go to back to the link and download HeidiSQL then click the download symbol
 </p>
 <br />
 
